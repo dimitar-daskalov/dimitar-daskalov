@@ -5,7 +5,8 @@
 </h1>
 
 <p align='center'>
-  A Front-end developer from Bulgaria.
+  A Front-end developer from Bulgaria specializing in React, dedicated to crafting seamless user experiences. Skilled in JavaScript, TypeScript, and
+  popular testing libraries like Jest. Eager to be in an environment, where I can expand my knowledge and grow as a professional.
 </p>
 
 <p align='center'>
@@ -14,11 +15,7 @@
   </a>&nbsp;&nbsp;
 </p>
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/?username=dimitar-daskalov&theme=tokyonight&layout=compact" width="350"></a>
-  <br/>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimitar-daskalov&theme=tokyonight&layout=compact" width="350"></a>
-</p>
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <p align='center'>
   📫 How to reach me: <a href='mailto:dimitar.daskalov22@gmail.com'>dimitar.daskalov22@gmail.com</a>
