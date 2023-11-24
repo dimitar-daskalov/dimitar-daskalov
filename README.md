@@ -15,7 +15,9 @@
   </a>&nbsp;&nbsp;
 </p>
 
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<div display="flex" align-items="center" justify-content="center">
+<img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+</div>
 
 <p align='center'>
   📫 How to reach me: <a href='mailto:dimitar.daskalov22@gmail.com'>dimitar.daskalov22@gmail.com</a>
